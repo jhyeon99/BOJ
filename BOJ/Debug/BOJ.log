@@ -1,0 +1,116 @@
+﻿  10070.cpp
+D:\GitHub\BOJ\BOJ\10070.cpp(7,22): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  1031.cpp
+D:\GitHub\BOJ\BOJ\1031.cpp(89,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitHub\BOJ\BOJ\1031.cpp(94,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1067.cpp
+D:\GitHub\BOJ\BOJ\1067.cpp(29,11): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHub\BOJ\BOJ\1067.cpp(29,28): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHub\BOJ\BOJ\1067.cpp(68,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  11385.cpp
+D:\GitHub\BOJ\BOJ\11385.cpp(14,45): warning C4244: '-=': 'll'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GitHub\BOJ\BOJ\11385.cpp(15,17): warning C4244: '+=': 'll'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GitHub\BOJ\BOJ\11385.cpp(43,14): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHub\BOJ\BOJ\11385.cpp(43,31): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHub\BOJ\BOJ\11385.cpp(76,59): warning C4554: '<<': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xmemory(696,103): warning C4244: '인수': 'const __int64'에서 'const std::complex<long double>::_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xmemory(1532): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const __int64&>(_Alloc &,_Objty *const ,const __int64 &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Alloc=std::allocator<cpx>,
+              _Ty=std::complex<long double>,
+              _Objty=std::complex<long double>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xmemory(1533): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const __int64&>(_Alloc &,_Objty *const ,const __int64 &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Alloc=std::allocator<cpx>,
+              _Ty=std::complex<long double>,
+              _Objty=std::complex<long double>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xmemory(1567): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Uninitialized_backout_al<_Alloc>::_Emplace_back<const __int64&>(const __int64 &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Alloc=std::allocator<cpx>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xmemory(1567): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Uninitialized_backout_al<_Alloc>::_Emplace_back<const __int64&>(const __int64 &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Alloc=std::allocator<cpx>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(1595): message : 컴파일되는 함수 템플릿 인스턴스화 'std::complex<long double> *std::_Uninitialized_copy<_Iter,std::allocator<cpx>>(const _InIt,const _InIt,std::complex<long double> *,_Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=const __int64 *,
+              _InIt=const __int64 *,
+              _Alloc=std::allocator<cpx>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(501): message : 컴파일되는 함수 템플릿 인스턴스화 'std::complex<long double> *std::vector<cpx,std::allocator<cpx>>::_Ucopy<_Iter>(_Iter,_Iter,std::complex<long double> *)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=const __int64 *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(501): message : 컴파일되는 함수 템플릿 인스턴스화 'std::complex<long double> *std::vector<cpx,std::allocator<cpx>>::_Ucopy<_Iter>(_Iter,_Iter,std::complex<long double> *)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=const __int64 *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(512): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::vector<cpx,std::allocator<cpx>>::_Range_construct_or_tidy<const __int64*>(_Iter,_Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=const __int64 *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(512): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::vector<cpx,std::allocator<cpx>>::_Range_construct_or_tidy<const __int64*>(_Iter,_Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=const __int64 *
+          ]
+D:\GitHub\BOJ\BOJ\11385.cpp(41): message : 컴파일되는 함수 템플릿 인스턴스화 'std::vector<cpx,std::allocator<cpx>>::vector<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=ll,
+              _Iter=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<ll>>>,
+              _Alloc=std::allocator<cpx>
+          ]
+D:\GitHub\BOJ\BOJ\11385.cpp(41): message : 컴파일되는 함수 템플릿 인스턴스화 'std::vector<cpx,std::allocator<cpx>>::vector<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=ll,
+              _Iter=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<ll>>>,
+              _Alloc=std::allocator<cpx>
+          ]
+  1150.cpp
+D:\GitHub\BOJ\BOJ\1150.cpp(4,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  1187.cpp
+  13547.cpp
+D:\GitHub\BOJ\BOJ\13547.cpp(25,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GitHub\BOJ\BOJ\13547.cpp(26,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  13548.cpp
+D:\GitHub\BOJ\BOJ\13548.cpp(38,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GitHub\BOJ\BOJ\13548.cpp(38,35): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  13575.cpp
+D:\GitHub\BOJ\BOJ\13575.cpp(40,14): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHub\BOJ\BOJ\13575.cpp(40,31): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHub\BOJ\BOJ\13575.cpp(48,23): warning C4244: '=': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+D:\GitHub\BOJ\BOJ\13575.cpp(74,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  13925.cpp
+D:\GitHub\BOJ\BOJ\13925.cpp(4,20): warning C4244: '초기화 중': 'double'에서 'll'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  1557.cpp
+D:\GitHub\BOJ\BOJ\1557.cpp(30,21): warning C4244: '초기화 중': 'double'에서 'll'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GitHub\BOJ\BOJ\1557.cpp(31,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  18076.cpp
+  18186.cpp
+  18195.cpp
+  2519.cpp
+  2561.cpp
+D:\GitHub\BOJ\BOJ\2561.cpp(39,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitHub\BOJ\BOJ\2561.cpp(41,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  16225.cpp
+  8464.cpp
+D:\GitHub\BOJ\BOJ\8464.cpp(30,21): warning C4244: '초기화 중': 'double'에서 'll'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GitHub\BOJ\BOJ\8464.cpp(31,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
