@@ -184,6 +184,7 @@
     <ClCompile Include="16225.cpp" />
     <ClCompile Include="2568.cpp" />
     <ClCompile Include="2623.cpp" />
+    <ClCompile Include="2887.cpp" />
     <ClCompile Include="2924.cpp" />
     <ClCompile Include="8464.cpp" />
     <ClCompile Include="소스.cpp" />
