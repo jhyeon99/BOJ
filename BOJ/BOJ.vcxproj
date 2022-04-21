@@ -186,6 +186,7 @@
     <ClCompile Include="2623.cpp" />
     <ClCompile Include="2887.cpp" />
     <ClCompile Include="2924.cpp" />
+    <ClCompile Include="7579.cpp" />
     <ClCompile Include="8464.cpp" />
     <ClCompile Include="소스.cpp" />
   </ItemGroup>
