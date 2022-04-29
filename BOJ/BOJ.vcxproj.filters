@@ -99,10 +99,10 @@
     <ClCompile Include="11377.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="1210.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1210.cpp">
+    <ClCompile Include="1201.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1005.cpp">

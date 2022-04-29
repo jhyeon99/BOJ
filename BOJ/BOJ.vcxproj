@@ -153,7 +153,7 @@
     <ClCompile Include="1187.cpp" />
     <ClCompile Include="12015.cpp" />
     <ClCompile Include="1208.cpp" />
-    <ClCompile Include="1210.cpp" />
+    <ClCompile Include="1201.cpp" />
     <ClCompile Include="13547.cpp" />
     <ClCompile Include="13548.cpp" />
     <ClCompile Include="13575.cpp" />
@@ -194,7 +194,7 @@
     <ClCompile Include="9328.cpp" />
     <ClCompile Include="9466.cpp" />
     <ClCompile Include="9527.cpp" />
-    <ClCompile Include="소스.cpp" />
+    <ClCompile Include="1210.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
